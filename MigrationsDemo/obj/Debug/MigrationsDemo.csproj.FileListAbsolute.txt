@@ -1,0 +1,17 @@
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\bkilkenney.github.io\bkilkenney.github.io\MigrationsDemo\MigrationsDemo\bin\Debug\MigrationsDemo.exe.config
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\bkilkenney.github.io\bkilkenney.github.io\MigrationsDemo\MigrationsDemo\bin\Debug\MigrationsDemo.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\bkilkenney.github.io\bkilkenney.github.io\MigrationsDemo\MigrationsDemo\bin\Debug\MigrationsDemo.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\bkilkenney.github.io\bkilkenney.github.io\MigrationsDemo\MigrationsDemo\bin\Debug\EntityFramework.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\bkilkenney.github.io\bkilkenney.github.io\MigrationsDemo\MigrationsDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\bkilkenney.github.io\bkilkenney.github.io\MigrationsDemo\MigrationsDemo\bin\Debug\EntityFramework.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\bkilkenney.github.io\bkilkenney.github.io\MigrationsDemo\MigrationsDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\bkilkenney.github.io\bkilkenney.github.io\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.csprojResolveAssemblyReference.cache
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\bkilkenney.github.io\bkilkenney.github.io\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\bkilkenney.github.io\bkilkenney.github.io\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\bkilkenney.github.io\bkilkenney.github.io\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.Migrations.FirstMigration.resources
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\bkilkenney.github.io\bkilkenney.github.io\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.csproj.GenerateResource.Cache
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\bkilkenney.github.io\bkilkenney.github.io\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.Migrations.AddBlogUrl.resources
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\bkilkenney.github.io\bkilkenney.github.io\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.Migrations.AddPostClass.resources
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\bkilkenney.github.io\bkilkenney.github.io\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.Migrations.AddedDateTime.resources
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\bkilkenney.github.io\bkilkenney.github.io\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.Migrations.AddPostAbstract.resources
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\bkilkenney.github.io\bkilkenney.github.io\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.Migrations.AddedDateTime1.resources
